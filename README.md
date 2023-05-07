@@ -38,7 +38,7 @@ To install this app on your local machine, follow these steps:
 1. Clone this repository: `git clone https://github.com/yourusername/threejs-shirt-modeler.git`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
-4. Open your web browser and go to `http://localhost:3000`
+4. Open your web browser and go to `http://localhost:5173`
 
 ## Acknowledgements
 
